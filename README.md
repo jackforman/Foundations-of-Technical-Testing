@@ -1,2 +1,4 @@
-# Foundations-of-Technical-Testing
-Repository to be used for teaching Foundations of Technical Testing
+foundations-of-tech-testing
+===========================
+
+Repository used when teaching the version control section of the foundations of technical testing course. 
