@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Down came the rain and washed the spider out
 
 Then Incy Wincy Spider climbed up the spout again
@@ -141,3 +142,45 @@ Partyin', partyin' (Yeah)
 Partyin', partyin' (Yeah)
 Fun, fun, fun, fun
 Lookin' forward to the weekend
+=======
+﻿<<<<<<< HEAD
+﻿<<<<<<< HEAD
+=======
+﻿<<<<<<< HEAD
+﻿<<<<<<< HEAD
+>>>>>>> 2ea68627eafc0fe1f4460884ab0beac3824e1dd2
+<<<<<<< HEAD
+﻿<<<<<<< HEAD
+﻿
+=======
+
+>>>>>>> 116eb50c7373b4f07777ad31dbac3f44483d2114
+﻿Incy Wincy Spider climbed up the water spout
+   /   | _________ _____/ /__  ____ ___  __  __   / ___/
+  / /| |/ ___/ __ `/ __  / _ \/ __ `__ \/ / / /  / __ \ 
+ / ___ / /__/ /_/ / /_/ /  __/ / / / / / /_/ /  / /_/ / 
+/_/  |_\___/\__,_/\__,_/\___/_/ /_/ /_/\__, /   \____/  
+                                      /____/            
+
+                      
+                                 """"""""'
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Incy Wincy Spider climed up the water spout
+
+<<<<<<< HEAD
+Then Incy Wincy Spider did not climb up the spout again --*
+*
+
+=======
+Down came the rain and washed the spider out
+
+Out came summer and dried up all the fun
+<<<<<<< HEAD
+Then Incy Wincy Spider did not climb up the spout again 
+Then Incy Wincy Spider climbed up on a rock and did not like the view
+I'm not sure if this will work but it's worth a shot as on the rock he meet an Ant 
+
+>>>>>>> b602989cfac2c8a1277fe8fc5c53601654c30034
