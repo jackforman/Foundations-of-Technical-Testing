@@ -1,6 +1,6 @@
-﻿<<<<<<< HEAD
+﻿Working together well here!
+
 ﻿Z took over
-=======
 
 ﻿Incy Wincy Spider climbed up the water spout
    /   | _________ _____/ /__  ____ ___  __  __   / ___/
@@ -71,7 +71,3 @@ i did this
 ﻿Summer wins
 
 ﻿Summer destroyed everything
->>>>>>> 116eb50c7373b4f07777ad31dbac3f44483d2114
-
-
-ZZZ
