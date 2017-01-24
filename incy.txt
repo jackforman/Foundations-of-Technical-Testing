@@ -1,4 +1,5 @@
 ﻿<<<<<<< HEAD
+﻿<<<<<<< HEAD
 =======
 ﻿<<<<<<< HEAD
 ﻿<<<<<<< HEAD
@@ -102,4 +103,3 @@ Then Incy Wincy Spider did not climb up the spout again
 Then Incy Wincy Spider climbed up on a rock and did not like the view
 I'm not sure if this will work but it's worth a shot as on the rock he meet an Ant 
 
-=
