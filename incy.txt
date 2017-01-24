@@ -1,10 +1,12 @@
-﻿    ___                  __                        _____
+﻿
+﻿Incy Wincy Spider climbed up the water spout
    /   | _________ _____/ /__  ____ ___  __  __   / ___/
   / /| |/ ___/ __ `/ __  / _ \/ __ `__ \/ / / /  / __ \ 
  / ___ / /__/ /_/ / /_/ /  __/ / / / / / /_/ /  / /_/ / 
 /_/  |_\___/\__,_/\__,_/\___/_/ /_/ /_/\__, /   \____/  
                                       /____/            
 
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water spout
 
 <<<<<<< HEAD
@@ -16,13 +18,7 @@ Down came the rain and washed the spider out
 
 Out came summer and dried up all the fun
 <<<<<<< HEAD
-Then Incy Wincy Spider did not climb up the spout again
->>>>>>> 09b65130e86af357002d8863aafeb1c2fcb162dc
-=======
-Then Incy Wincy Spider climbed up the spout again and did not like the view
+Then Incy Wincy Spider did not climb up the spout again 
+Then Incy Wincy Spider climbed up on a rock and did not like the view
 I'm not sure if this will work but it's worth a shot
 
-ABID WAS HERE
-ALI WAS HERE
-MATT IS STILL HERE
->>>>>>> 78cc4064d0686a99e86bc22a7f7e9c8a0fe04d26
