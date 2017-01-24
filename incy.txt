@@ -1,10 +1,12 @@
-﻿    ___                  __                        _____
+﻿
+﻿Incy Wincy Spider climbed up the water spout
    /   | _________ _____/ /__  ____ ___  __  __   / ___/
   / /| |/ ___/ __ `/ __  / _ \/ __ `__ \/ / / /  / __ \ 
  / ___ / /__/ /_/ / /_/ /  __/ / / / / / /_/ /  / /_/ / 
 /_/  |_\___/\__,_/\__,_/\___/_/ /_/ /_/\__, /   \____/  
                                       /____/            
 
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water spout
 
 Down came the rain and washed the spider out
@@ -12,7 +14,7 @@ Down came the rain and washed the spider out
 
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
-Hello Dorry, Dorry... 
+Hello Dorry, Dorry... .
 
 Out came summer and dried up all the fun
 
@@ -28,3 +30,6 @@ I'm not sure if this will work but it's worth a shot
 
 ABID WAS HERE
 ALI WAS HERE
+=======
+i did this
+>>>>>>> 195aec3d41e636e6af1e58f78b5562e2e0ace735
