@@ -1,6 +1,13 @@
 ﻿<<<<<<< HEAD
 ﻿<<<<<<< HEAD
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
+=======
+=======
+﻿<<<<<<< HEAD
+﻿<<<<<<< HEAD
+>>>>>>> 2ea68627eafc0fe1f4460884ab0beac3824e1dd2
+>>>>>>> 5fadde651b4ad8fafb2f397cb07f7bfe62283a13
 <<<<<<< HEAD
 ﻿<<<<<<< HEAD
 ﻿
@@ -82,6 +89,7 @@ YO:::;Y::Ob ,8888888888888888;::       :;88888888888888888  :88::::::8
                            '`8888888888888P"'                         
                                  """"""""'
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -209,3 +217,21 @@ git
 >>>>>>> d8018da6d69a511a330681976d88f8be143f19ed
 
 WHAT HAPPENED TO THE SPIDER
+=======
+<<<<<<< HEAD
+Incy Wincy Spider climed up the water spout
+
+<<<<<<< HEAD
+Then Incy Wincy Spider did not climb up the spout again --*
+*
+
+=======
+Down came the rain and washed the spider out
+
+Out came summer and dried up all the fun
+<<<<<<< HEAD
+Then Incy Wincy Spider did not climb up the spout again 
+Then Incy Wincy Spider climbed up on a rock and did not like the view
+I'm not sure if this will work but it's worth a shot as on the rock he meet an Ant 
+
+>>>>>>> 5fadde651b4ad8fafb2f397cb07f7bfe62283a13
