@@ -2,7 +2,12 @@
 
 Down came the rain and washed the spider out
 
+<<<<<<< HEAD
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 
 INCY WINCY PORKY CLIMED UP THE PORKY SPOUT 
+=======
+Out came summer and dried up all the fun
+Then Incy Wincy Spider climbed up the spout again
+>>>>>>> a821ad9d37d6887efabe2aca30c9b109c10f9725
