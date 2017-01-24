@@ -1,4 +1,5 @@
 ﻿<<<<<<< HEAD
+﻿<<<<<<< HEAD
 <<<<<<< HEAD
 ﻿<<<<<<< HEAD
 ﻿
@@ -17,8 +18,11 @@
 =======
 >>>>>>> 116eb50c7373b4f07777ad31dbac3f44483d2114
 =======
-﻿Z took over
 =======
+﻿Working together well here!
+
+>>>>>>> 911862bf610ff7ed430a69b5455a637be3312433
+﻿Z took over
 
 ﻿Incy Wincy Spider climbed up the water spout
    /   | _________ _____/ /__  ____ ___  __  __   / ___/
@@ -118,6 +122,7 @@ i did this
 
 ﻿Summer destroyed everything
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 116eb50c7373b4f07777ad31dbac3f44483d2114
 QWWWW
 =======
@@ -126,3 +131,6 @@ QWWWW
 
 ZZZ
 >>>>>>> 5a323ccfcd66f16b2db3225fcffd171113fca2d1
+=======
+>>>>>>> 911862bf610ff7ed430a69b5455a637be3312433
+SFGADGGADg
