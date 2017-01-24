@@ -1,4 +1,11 @@
-﻿Incy Wincy Spider climed up the water spout
+﻿    ___                  __                        _____
+   /   | _________ _____/ /__  ____ ___  __  __   / ___/
+  / /| |/ ___/ __ `/ __  / _ \/ __ `__ \/ / / /  / __ \ 
+ / ___ / /__/ /_/ / /_/ /  __/ / / / / / /_/ /  / /_/ / 
+/_/  |_\___/\__,_/\__,_/\___/_/ /_/ /_/\__, /   \____/  
+                                      /____/            
+
+Incy Wincy Spider climed up the water spout
 
 Down came the rain and washed the spider out
 
