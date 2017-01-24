@@ -1,9 +1,12 @@
 ﻿Incy Wincy Spider climed up the water spout
---*
-Down came the rain and washed the spider out--*
 
-Out came the sun and dried up all the rain--*
-
+<<<<<<< HEAD
 Then Incy Wincy Spider climbed up the spout again--*
 *
 Roses are red, violets are blue
+=======
+Down came the rain and washed the spider out
+
+Out came summer and dried up all the fun
+Then Incy Wincy Spider climbed up the spout again
+>>>>>>> a821ad9d37d6887efabe2aca30c9b109c10f9725
