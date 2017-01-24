@@ -1,3 +1,4 @@
+﻿<<<<<<< HEAD
 ﻿
 ﻿Incy Wincy Spider climbed up the water spout
    /   | _________ _____/ /__  ____ ___  __  __   / ___/
@@ -33,3 +34,6 @@ i did this
 >>>>>>> 195aec3d41e636e6af1e58f78b5562e2e0ace735
 dhruv 2017
 
+=======
+﻿Summer wins
+>>>>>>> 392df65b0cc00e339dbbd5218420e28ec9fb30c4
