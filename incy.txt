@@ -1,9 +1,20 @@
-﻿Incy Wincy Spider climed up the water spout
+﻿    ___                  __                        _____
+   /   | _________ _____/ /__  ____ ___  __  __   / ___/
+  / /| |/ ___/ __ `/ __  / _ \/ __ `__ \/ / / /  / __ \ 
+ / ___ / /__/ /_/ / /_/ /  __/ / / / / / /_/ /  / /_/ / 
+/_/  |_\___/\__,_/\__,_/\___/_/ /_/ /_/\__, /   \____/  
+                                      /____/            
+
+Incy Wincy Spider climed up the water spout
 
 Down came the rain and washed the spider out
 
+<<<<<<< HEAD
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 
 Incy Wincy Spider Loved to browse the web,
 Needless to say it was developing again.
+Out came summer and dried up all the fun
+Then Incy Wincy Spider climbed up the spout again
+.
